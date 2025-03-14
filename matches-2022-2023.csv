@@ -1,381 +1,381 @@
-Date,Time,Home Team,XGH,Away Team,XGA,Score,FTHG,FTAG,Result,Referee
-2022-08-05,20:00,Crystal Palace,1.2,Arsenal,1.0,0–2,0,2,2,Anthony Taylor
-2022-08-06,12:30,Fulham,1.2,Liverpool,1.2,2–2,2,2,X,Andy Madley
-2022-08-06,15:00,Tottenham,1.5,Southampton,0.5,4–1,4,1,1,Andre Marriner
-2022-08-06,15:00,Newcastle Utd,1.7,Nott'ham Forest,0.3,2–0,2,0,1,Simon Hooper
-2022-08-06,15:00,Leeds United,0.8,Wolves,1.3,2–1,2,1,1,Robert Jones
-2022-08-06,15:00,Bournemouth,0.6,Aston Villa,0.7,2–0,2,0,1,Peter Bankes
-2022-08-06,17:30,Everton,0.7,Chelsea,1.5,0–1,0,1,2,Craig Pawson
-2022-08-07,14:00,Leicester City,0.6,Brentford,0.8,2–2,2,2,X,Jarred Gillett
-2022-08-07,14:00,Manchester Utd,1.4,Brighton,1.5,1–2,1,2,2,Paul Tierney
-2022-08-07,16:30,West Ham,0.5,Manchester City,2.2,0–2,0,2,2,Michael Oliver
-2022-08-13,12:30,Aston Villa,2.3,Everton,1.6,2–1,2,1,1,Michael Oliver
-2022-08-13,15:00,Manchester City,1.7,Bournemouth,0.1,4–0,4,0,1,David Coote
-2022-08-13,15:00,Southampton,1.2,Leeds United,1.8,2–2,2,2,X,Tony Harrington
-2022-08-13,15:00,Wolves,0.9,Fulham,1.5,0–0,0,0,X,John Brooks
-2022-08-13,15:00,Arsenal,2.7,Leicester City,0.5,4–2,4,2,1,Darren England
-2022-08-13,15:00,Brighton,1.5,Newcastle Utd,0.2,0–0,0,0,X,Graham Scott
-2022-08-13,17:30,Brentford,1.6,Manchester Utd,0.9,4–0,4,0,1,Stuart Attwell
-2022-08-14,14:00,Nott'ham Forest,1.3,West Ham,2.1,1–0,1,0,1,Robert Jones
-2022-08-14,16:30,Chelsea,1.6,Tottenham,1.0,2–2,2,2,X,Anthony Taylor
-2022-08-15,20:00,Liverpool,2.0,Crystal Palace,1.0,1–1,1,1,X,Paul Tierney
-2022-08-20,12:30,Tottenham,1.7,Wolves,0.7,1–0,1,0,1,Simon Hooper
-2022-08-20,15:00,Leicester City,0.3,Southampton,0.9,1–2,1,2,2,Michael Salisbury
-2022-08-20,15:00,Everton,1.5,Nott'ham Forest,1.0,1–1,1,1,X,Andre Marriner
-2022-08-20,15:00,Crystal Palace,2.6,Aston Villa,0.9,3–1,3,1,1,Andy Madley
-2022-08-20,15:00,Fulham,2.4,Brentford,1.8,3–2,3,2,1,Peter Bankes
-2022-08-20,17:30,Bournemouth,0.3,Arsenal,1.3,0–3,0,3,2,Craig Pawson
-2022-08-21,14:00,Leeds United,2.1,Chelsea,0.9,3–0,3,0,1,Stuart Attwell
-2022-08-21,14:00,West Ham,0.8,Brighton,1.7,0–2,0,2,2,Anthony Taylor
-2022-08-21,16:30,Newcastle Utd,1.8,Manchester City,2.1,3–3,3,3,X,Jarred Gillett
-2022-08-22,20:00,Manchester Utd,1.8,Liverpool,1.3,2–1,2,1,1,Michael Oliver
-2022-08-27,12:30,Southampton,1.4,Manchester Utd,1.1,0–1,0,1,2,Andy Madley
-2022-08-27,15:00,Manchester City,2.2,Crystal Palace,0.1,4–2,4,2,1,Darren England
-2022-08-27,15:00,Brighton,2.0,Leeds United,1.8,1–0,1,0,1,Michael Salisbury
-2022-08-27,15:00,Chelsea,1.8,Leicester City,2.5,2–1,2,1,1,Paul Tierney
-2022-08-27,15:00,Brentford,2.1,Everton,1.1,1–1,1,1,X,John Brooks
-2022-08-27,15:00,Liverpool,3.3,Bournemouth,0.3,9–0,9,0,1,Stuart Attwell
-2022-08-27,17:30,Arsenal,2.6,Fulham,0.8,2–1,2,1,1,Jarred Gillett
-2022-08-28,14:00,Wolves,0.7,Newcastle Utd,1.7,1–1,1,1,X,Peter Bankes
-2022-08-28,14:00,Aston Villa,0.5,West Ham,0.6,0–1,0,1,2,David Coote
-2022-08-28,16:30,Nott'ham Forest,0.9,Tottenham,2.4,0–2,0,2,2,Craig Pawson
-2022-08-30,19:30,Fulham,0.7,Brighton,1.4,2–1,2,1,1,Thomas Bramall
-2022-08-30,19:30,Crystal Palace,1.0,Brentford,1.4,1–1,1,1,X,Simon Hooper
-2022-08-30,19:45,Southampton,1.1,Chelsea,1.1,2–1,2,1,1,Michael Oliver
-2022-08-30,20:00,Leeds United,1.0,Everton,1.0,1–1,1,1,X,Darren England
-2022-08-31,19:30,Bournemouth,0.4,Wolves,1.5,0–0,0,0,X,Anthony Taylor
-2022-08-31,19:30,Manchester City,3.3,Nott'ham Forest,0.7,6–0,6,0,1,Paul Tierney
-2022-08-31,19:30,Arsenal,2.4,Aston Villa,0.4,2–1,2,1,1,Robert Jones
-2022-08-31,19:45,West Ham,1.2,Tottenham,0.6,1–1,1,1,X,Peter Bankes
-2022-08-31,20:00,Liverpool,1.5,Newcastle Utd,0.7,2–1,2,1,1,Andre Marriner
-2022-09-01,20:00,Leicester City,0.7,Manchester Utd,1.5,0–1,0,1,2,Craig Pawson
-2022-09-03,12:30,Everton,1.7,Liverpool,2.1,0–0,0,0,X,Anthony Taylor
-2022-09-03,15:00,Nott'ham Forest,1.9,Bournemouth,0.8,2–3,2,3,2,Michael Oliver
-2022-09-03,15:00,Wolves,0.8,Southampton,1.2,1–0,1,0,1,John Brooks
-2022-09-03,15:00,Newcastle Utd,2.8,Crystal Palace,1.0,0–0,0,0,X,Michael Salisbury
-2022-09-03,15:00,Brentford,2.3,Leeds United,1.7,5–2,5,2,1,Robert Jones
-2022-09-03,15:00,Tottenham,2.9,Fulham,0.7,2–1,2,1,1,Stuart Attwell
-2022-09-03,15:00,Chelsea,0.9,West Ham,1.1,2–1,2,1,1,Andy Madley
-2022-09-03,17:30,Aston Villa,0.3,Manchester City,2.1,1–1,1,1,X,Simon Hooper
-2022-09-04,14:00,Brighton,2.6,Leicester City,1.4,5–2,5,2,1,Tony Harrington
-2022-09-04,16:30,Manchester Utd,1.5,Arsenal,1.3,3–1,3,1,1,Paul Tierney
-2022-09-16,20:00,Aston Villa,1.5,Southampton,0.3,1–0,1,0,1,Tony Harrington
-2022-09-16,20:00,Nott'ham Forest,1.4,Fulham,0.9,2–3,2,3,2,Jarred Gillett
-2022-09-17,12:30,Wolves,0.4,Manchester City,1.1,0–3,0,3,2,Anthony Taylor
-2022-09-17,15:00,Newcastle Utd,1.9,Bournemouth,0.7,1–1,1,1,X,Craig Pawson
-2022-09-17,17:30,Tottenham,2.2,Leicester City,1.8,6–2,6,2,1,Simon Hooper
-2022-09-18,12:00,Brentford,0.5,Arsenal,1.5,0–3,0,3,2,David Coote
-2022-09-18,14:15,Everton,0.4,West Ham,1.0,1–0,1,0,1,Michael Oliver
-2022-10-01,12:30,Arsenal,2.4,Tottenham,1.6,3–1,3,1,1,Anthony Taylor
-2022-10-01,15:00,Southampton,1.7,Everton,2.0,1–2,1,2,2,Andre Marriner
-2022-10-01,15:00,Crystal Palace,0.4,Chelsea,1.1,1–2,1,2,2,Chris Kavanagh
-2022-10-01,15:00,Liverpool,1.5,Brighton,1.4,3–3,3,3,X,Andy Madley
-2022-10-01,15:00,Fulham,0.5,Newcastle Utd,3.3,1–4,1,4,2,Darren England
-2022-10-01,15:00,Bournemouth,0.4,Brentford,0.9,0–0,0,0,X,Thomas Bramall
-2022-10-01,17:30,West Ham,0.9,Wolves,0.7,2–0,2,0,1,Paul Tierney
-2022-10-02,14:00,Manchester City,3.2,Manchester Utd,1.7,6–3,6,3,1,Michael Oliver
-2022-10-02,16:30,Leeds United,0.4,Aston Villa,2.2,0–0,0,0,X,Stuart Attwell
-2022-10-03,20:00,Leicester City,1.3,Nott'ham Forest,1.1,4–0,4,0,1,Robert Jones
-2022-10-08,15:00,Bournemouth,1.1,Leicester City,1.0,2–1,2,1,1,Michael Salisbury
-2022-10-08,15:00,Newcastle Utd,1.5,Brentford,1.2,5–1,5,1,1,John Brooks
-2022-10-08,15:00,Manchester City,2.4,Southampton,0.2,4–0,4,0,1,Andy Madley
-2022-10-08,15:00,Chelsea,1.9,Wolves,1.1,3–0,3,0,1,Simon Hooper
-2022-10-08,17:30,Brighton,0.7,Tottenham,0.8,0–1,0,1,2,Tony Harrington
-2022-10-09,14:00,West Ham,2.4,Fulham,0.7,3–1,3,1,1,Chris Kavanagh
-2022-10-09,14:00,Crystal Palace,1.1,Leeds United,1.0,2–1,2,1,1,Paul Tierney
-2022-10-09,16:30,Arsenal,2.7,Liverpool,1.1,3–2,3,2,1,Michael Oliver
-2022-10-09,19:00,Everton,0.6,Manchester Utd,1.4,1–2,1,2,2,David Coote
-2022-10-10,20:00,Nott'ham Forest,0.3,Aston Villa,0.7,1–1,1,1,X,Anthony Taylor
-2022-10-14,20:00,Brentford,1.5,Brighton,1.9,2–0,2,0,1,Michael Salisbury
-2022-10-15,12:30,Leicester City,1.0,Crystal Palace,0.4,0–0,0,0,X,Andy Madley
-2022-10-15,15:00,Fulham,2.1,Bournemouth,1.0,2–2,2,2,X,Graham Scott
-2022-10-15,15:00,Wolves,1.3,Nott'ham Forest,1.5,1–0,1,0,1,Thomas Bramall
-2022-10-15,17:30,Tottenham,2.2,Everton,0.4,2–0,2,0,1,Paul Tierney
-2022-10-16,14:00,Southampton,0.5,West Ham,1.7,1–1,1,1,X,Peter Bankes
-2022-10-16,14:00,Aston Villa,1.8,Chelsea,0.9,0–2,0,2,2,Robert Jones
-2022-10-16,14:00,Leeds United,1.8,Arsenal,0.5,0–1,0,1,2,Chris Kavanagh
-2022-10-16,14:00,Manchester Utd,0.8,Newcastle Utd,0.8,0–0,0,0,X,Craig Pawson
-2022-10-16,16:30,Liverpool,2.1,Manchester City,1.0,1–0,1,0,1,Anthony Taylor
-2022-10-18,19:30,Brighton,1.7,Nott'ham Forest,0.1,0–0,0,0,X,Darren England
-2022-10-18,20:15,Crystal Palace,1.2,Wolves,0.8,2–1,2,1,1,David Coote
-2022-10-19,19:30,Bournemouth,1.0,Southampton,1.0,0–1,0,1,2,John Brooks
-2022-10-19,19:30,Brentford,1.3,Chelsea,0.9,0–0,0,0,X,Jarred Gillett
-2022-10-19,19:30,Liverpool,1.7,West Ham,1.7,1–0,1,0,1,Stuart Attwell
-2022-10-19,19:30,Newcastle Utd,1.5,Everton,0.2,1–0,1,0,1,Tony Harrington
-2022-10-19,20:15,Manchester Utd,1.5,Tottenham,0.6,2–0,2,0,1,Simon Hooper
-2022-10-20,19:30,Fulham,2.1,Aston Villa,1.2,3–0,3,0,1,Michael Oliver
-2022-10-20,20:15,Leicester City,0.8,Leeds United,1.3,2–0,2,0,1,Peter Bankes
-2022-10-22,12:30,Nott'ham Forest,1.9,Liverpool,1.6,1–0,1,0,1,Paul Tierney
-2022-10-22,15:00,Everton,1.4,Crystal Palace,0.9,3–0,3,0,1,Simon Hooper
-2022-10-22,15:00,Manchester City,1.6,Brighton,0.5,3–1,3,1,1,Craig Pawson
-2022-10-22,17:30,Chelsea,1.1,Manchester Utd,0.8,1–1,1,1,X,Stuart Attwell
-2022-10-23,14:00,Aston Villa,2.8,Brentford,0.9,4–0,4,0,1,Darren England
-2022-10-23,14:00,Wolves,2.1,Leicester City,0.9,0–4,0,4,2,Michael Oliver
-2022-10-23,14:00,Leeds United,1.6,Fulham,1.8,2–3,2,3,2,Anthony Taylor
-2022-10-23,14:00,Southampton,0.7,Arsenal,1.0,1–1,1,1,X,Robert Jones
-2022-10-23,16:30,Tottenham,1.6,Newcastle Utd,1.2,1–2,1,2,2,Jarred Gillett
-2022-10-24,20:00,West Ham,1.9,Bournemouth,0.4,2–0,2,0,1,David Coote
-2022-10-29,12:30,Leicester City,0.7,Manchester City,1.0,0–1,0,1,2,Robert Jones
-2022-10-29,15:00,Brentford,1.4,Wolves,0.6,1–1,1,1,X,Robert Madley
-2022-10-29,15:00,Crystal Palace,0.9,Southampton,1.3,1–0,1,0,1,Michael Salisbury
-2022-10-29,15:00,Newcastle Utd,3.4,Aston Villa,0.4,4–0,4,0,1,Paul Tierney
-2022-10-29,15:00,Brighton,2.4,Chelsea,1.4,4–1,4,1,1,Andy Madley
-2022-10-29,15:00,Bournemouth,0.5,Tottenham,2.0,2–3,2,3,2,Anthony Taylor
-2022-10-29,17:30,Fulham,1.9,Everton,0.9,0–0,0,0,X,John Brooks
-2022-10-29,19:45,Liverpool,1.7,Leeds United,1.8,1–2,1,2,2,Michael Oliver
-2022-10-30,14:00,Arsenal,2.3,Nott'ham Forest,0.4,5–0,5,0,1,Simon Hooper
-2022-10-30,16:15,Manchester Utd,1.2,West Ham,1.1,1–0,1,0,1,Chris Kavanagh
-2022-11-05,15:00,Nott'ham Forest,1.5,Brentford,1.5,2–2,2,2,X,Andre Marriner
-2022-11-05,15:00,Leeds United,2.2,Bournemouth,1.5,4–3,4,3,1,Tony Harrington
-2022-11-05,15:00,Manchester City,2.1,Fulham,1.0,2–1,2,1,1,Darren England
-2022-11-05,15:00,Wolves,1.2,Brighton,1.5,2–3,2,3,2,Graham Scott
-2022-11-05,17:30,Everton,1.2,Leicester City,2.3,0–2,0,2,2,David Coote
-2022-11-06,12:00,Chelsea,0.3,Arsenal,2.1,0–1,0,1,2,Michael Oliver
-2022-11-06,14:00,West Ham,0.3,Crystal Palace,1.0,1–2,1,2,2,Paul Tierney
-2022-11-06,14:00,Southampton,1.7,Newcastle Utd,0.9,1–4,1,4,2,Stuart Attwell
-2022-11-06,14:00,Aston Villa,0.6,Manchester Utd,0.5,3–1,3,1,1,Anthony Taylor
-2022-11-06,16:30,Tottenham,1.2,Liverpool,1.2,1–2,1,2,2,Andy Madley
-2022-11-12,12:30,Manchester City,1.6,Brentford,1.3,1–2,1,2,2,Peter Bankes
-2022-11-12,15:00,Tottenham,1.8,Leeds United,1.1,4–3,4,3,1,Michael Salisbury
-2022-11-12,15:00,Liverpool,1.9,Southampton,1.1,3–1,3,1,1,Simon Hooper
-2022-11-12,15:00,Bournemouth,2.4,Everton,0.8,3–0,3,0,1,Craig Pawson
-2022-11-12,15:00,West Ham,1.4,Leicester City,1.8,0–2,0,2,2,Jarred Gillett
-2022-11-12,15:00,Nott'ham Forest,1.1,Crystal Palace,1.2,1–0,1,0,1,John Brooks
-2022-11-12,17:30,Newcastle Utd,1.0,Chelsea,0.3,1–0,1,0,1,Robert Jones
-2022-11-12,19:45,Wolves,0.7,Arsenal,2.1,0–2,0,2,2,Stuart Attwell
-2022-11-13,14:00,Brighton,0.6,Aston Villa,1.5,1–2,1,2,2,Chris Kavanagh
-2022-11-13,16:30,Fulham,1.4,Manchester Utd,2.5,1–2,1,2,2,Paul Tierney
-2022-12-26,12:30,Brentford,2.0,Tottenham,1.1,2–2,2,2,X,David Coote
-2022-12-26,15:00,Southampton,1.9,Brighton,0.6,1–3,1,3,2,Robert Jones
-2022-12-26,15:00,Leicester City,0.5,Newcastle Utd,1.9,0–3,0,3,2,Jarred Gillett
-2022-12-26,15:00,Crystal Palace,0.4,Fulham,2.5,0–3,0,3,2,Andy Madley
-2022-12-26,15:00,Everton,1.7,Wolves,0.8,1–2,1,2,2,Craig Pawson
-2022-12-26,17:30,Aston Villa,1.4,Liverpool,2.7,1–3,1,3,2,Paul Tierney
-2022-12-26,20:00,Arsenal,2.1,West Ham,1.0,3–1,3,1,1,Michael Oliver
-2022-12-27,17:30,Chelsea,1.8,Bournemouth,0.5,2–0,2,0,1,Simon Hooper
-2022-12-27,20:00,Manchester Utd,2.4,Nott'ham Forest,0.7,3–0,3,0,1,Anthony Taylor
-2022-12-28,20:00,Leeds United,0.6,Manchester City,4.3,1–3,1,3,2,Stuart Attwell
-2022-12-30,19:45,West Ham,1.3,Brentford,1.6,0–2,0,2,2,Darren England
-2022-12-30,20:00,Liverpool,2.2,Leicester City,1.0,2–1,2,1,1,Craig Pawson
-2022-12-31,12:30,Wolves,0.7,Manchester Utd,2.0,0–1,0,1,2,Robert Jones
-2022-12-31,15:00,Newcastle Utd,2.2,Leeds United,0.4,0–0,0,0,X,Simon Hooper
-2022-12-31,15:00,Fulham,1.5,Southampton,0.8,2–1,2,1,1,Graham Scott
-2022-12-31,15:00,Manchester City,1.7,Everton,0.1,1–1,1,1,X,Andy Madley
-2022-12-31,15:00,Bournemouth,0.6,Crystal Palace,1.6,0–2,0,2,2,Andre Marriner
-2022-12-31,17:30,Brighton,1.2,Arsenal,2.9,2–4,2,4,2,Anthony Taylor
-2023-01-01,14:00,Tottenham,0.7,Aston Villa,1.0,0–2,0,2,2,John Brooks
-2023-01-01,16:30,Nott'ham Forest,1.4,Chelsea,0.9,1–1,1,1,X,Peter Bankes
-2023-01-02,17:30,Brentford,1.6,Liverpool,0.9,3–1,3,1,1,Stuart Attwell
-2023-01-03,19:45,Leicester City,1.7,Fulham,1.7,0–1,0,1,2,Darren Bond
-2023-01-03,19:45,Everton,1.3,Brighton,2.2,1–4,1,4,2,Andre Marriner
-2023-01-03,19:45,Arsenal,1.1,Newcastle Utd,1.0,0–0,0,0,X,Andy Madley
-2023-01-03,20:00,Manchester Utd,2.2,Bournemouth,0.6,3–0,3,0,1,Michael Salisbury
-2023-01-04,19:30,Southampton,0.5,Nott'ham Forest,1.4,0–1,0,1,2,Thomas Bramall
-2023-01-04,19:45,Leeds United,1.6,West Ham,1.4,2–2,2,2,X,David Coote
-2023-01-04,20:00,Aston Villa,1.8,Wolves,0.9,1–1,1,1,X,Jarred Gillett
-2023-01-04,20:00,Crystal Palace,0.8,Tottenham,1.4,0–4,0,4,2,Michael Oliver
-2023-01-05,20:00,Chelsea,0.4,Manchester City,2.0,0–1,0,1,2,Paul Tierney
-2023-01-12,20:00,Fulham,1.0,Chelsea,2.1,2–1,2,1,1,David Coote
-2023-01-13,20:00,Aston Villa,1.2,Leeds United,2.4,2–1,2,1,1,Michael Oliver
-2023-01-14,12:30,Manchester Utd,1.7,Manchester City,0.6,2–1,2,1,1,Stuart Attwell
-2023-01-14,15:00,Everton,1.4,Southampton,1.2,1–2,1,2,2,John Brooks
-2023-01-14,15:00,Wolves,0.9,West Ham,1.1,1–0,1,0,1,Simon Hooper
-2023-01-14,15:00,Nott'ham Forest,2.4,Leicester City,1.0,2–0,2,0,1,Paul Tierney
-2023-01-14,15:00,Brighton,1.9,Liverpool,1.0,3–0,3,0,1,Darren England
-2023-01-14,17:30,Brentford,1.4,Bournemouth,0.6,2–0,2,0,1,Jarred Gillett
-2023-01-15,14:00,Chelsea,1.5,Crystal Palace,0.7,1–0,1,0,1,Peter Bankes
-2023-01-15,14:00,Newcastle Utd,2.2,Fulham,1.1,1–0,1,0,1,Robert Jones
-2023-01-15,16:30,Tottenham,1.6,Arsenal,1.8,0–2,0,2,2,Craig Pawson
-2023-01-18,20:00,Crystal Palace,0.5,Manchester Utd,2.1,1–1,1,1,X,Robert Jones
-2023-01-19,20:00,Manchester City,2.3,Tottenham,0.8,4–2,4,2,1,Simon Hooper
-2023-01-21,12:30,Liverpool,1.4,Chelsea,1.6,0–0,0,0,X,Michael Oliver
-2023-01-21,15:00,Bournemouth,1.4,Nott'ham Forest,1.9,1–1,1,1,X,Andy Madley
-2023-01-21,15:00,Southampton,0.6,Aston Villa,1.4,0–1,0,1,2,Michael Salisbury
-2023-01-21,15:00,Leicester City,0.9,Brighton,1.7,2–2,2,2,X,Thomas Bramall
-2023-01-21,15:00,West Ham,2.2,Everton,0.5,2–0,2,0,1,Stuart Attwell
-2023-01-21,17:30,Crystal Palace,0.3,Newcastle Utd,1.2,0–0,0,0,X,Craig Pawson
-2023-01-22,14:00,Manchester City,2.8,Wolves,0.8,3–0,3,0,1,David Coote
-2023-01-22,14:00,Leeds United,0.5,Brentford,0.4,0–0,0,0,X,Peter Bankes
-2023-01-22,16:30,Arsenal,3.1,Manchester Utd,0.4,3–2,3,2,1,Anthony Taylor
-2023-01-23,20:00,Fulham,1.0,Tottenham,0.9,0–1,0,1,2,Paul Tierney
-2023-02-03,20:00,Chelsea,1.3,Fulham,0.6,0–0,0,0,X,Stuart Attwell
-2023-02-04,12:30,Everton,1.7,Arsenal,0.9,1–0,1,0,1,David Coote
-2023-02-04,15:00,Aston Villa,1.7,Leicester City,2.6,2–4,2,4,2,Darren England
-2023-02-04,15:00,Wolves,2.0,Liverpool,1.8,3–0,3,0,1,Paul Tierney
-2023-02-04,15:00,Manchester Utd,2.0,Crystal Palace,1.3,2–1,2,1,1,Andre Marriner
-2023-02-04,15:00,Brighton,2.2,Bournemouth,1.1,1–0,1,0,1,Craig Pawson
-2023-02-04,15:00,Brentford,2.0,Southampton,0.7,3–0,3,0,1,Darren Bond
-2023-02-04,17:30,Newcastle Utd,1.0,West Ham,1.0,1–1,1,1,X,Peter Bankes
-2023-02-05,14:00,Nott'ham Forest,0.4,Leeds United,0.9,1–0,1,0,1,Robert Jones
-2023-02-05,16:30,Tottenham,1.4,Manchester City,1.3,1–0,1,0,1,Andy Madley
-2023-02-08,20:00,Manchester Utd,2.0,Leeds United,0.6,2–2,2,2,X,Simon Hooper
-2023-02-11,12:30,West Ham,1.3,Chelsea,1.1,1–1,1,1,X,Craig Pawson
-2023-02-11,15:00,Leicester City,1.7,Tottenham,1.3,4–1,4,1,1,Michael Salisbury
-2023-02-11,15:00,Crystal Palace,1.1,Brighton,2.5,1–1,1,1,X,Michael Oliver
-2023-02-11,15:00,Arsenal,1.6,Brentford,2.0,1–1,1,1,X,Peter Bankes
-2023-02-11,15:00,Southampton,1.1,Wolves,0.8,1–2,1,2,2,Jarred Gillett
-2023-02-11,15:00,Fulham,1.5,Nott'ham Forest,0.7,2–0,2,0,1,Andy Madley
-2023-02-11,17:30,Bournemouth,1.5,Newcastle Utd,1.3,1–1,1,1,X,Stuart Attwell
-2023-02-12,14:00,Leeds United,1.8,Manchester Utd,1.1,0–2,0,2,2,Paul Tierney
-2023-02-12,16:30,Manchester City,3.3,Aston Villa,0.3,3–1,3,1,1,Robert Jones
-2023-02-13,20:00,Liverpool,2.3,Everton,0.4,2–0,2,0,1,Simon Hooper
-2023-02-15,19:30,Arsenal,1.6,Manchester City,1.8,1–3,1,3,2,Anthony Taylor
-2023-02-18,12:30,Aston Villa,0.5,Arsenal,3.2,2–4,2,4,2,Simon Hooper
-2023-02-18,15:00,Brighton,2.2,Fulham,0.3,0–1,0,1,2,Darren England
-2023-02-18,15:00,Nott'ham Forest,0.9,Manchester City,2.4,1–1,1,1,X,Graham Scott
-2023-02-18,15:00,Chelsea,1.6,Southampton,0.6,0–1,0,1,2,David Coote
-2023-02-18,15:00,Everton,1.4,Leeds United,0.5,1–0,1,0,1,Andy Madley
-2023-02-18,15:00,Wolves,1.3,Bournemouth,1.1,0–1,0,1,2,Michael Salisbury
-2023-02-18,15:00,Brentford,0.9,Crystal Palace,1.1,1–1,1,1,X,Paul Tierney
-2023-02-18,17:30,Newcastle Utd,2.0,Liverpool,1.9,0–2,0,2,2,Anthony Taylor
-2023-02-19,14:00,Manchester Utd,4.4,Leicester City,1.6,3–0,3,0,1,Stuart Attwell
-2023-02-19,16:30,Tottenham,1.5,West Ham,0.5,2–0,2,0,1,Michael Oliver
-2023-02-24,20:00,Fulham,0.5,Wolves,0.8,1–1,1,1,X,Michael Oliver
-2023-02-25,15:00,Leicester City,0.0,Arsenal,0.7,0–1,0,1,2,Craig Pawson
-2023-02-25,15:00,Everton,1.6,Aston Villa,1.9,0–2,0,2,2,Anthony Taylor
-2023-02-25,15:00,West Ham,2.7,Nott'ham Forest,0.4,4–0,4,0,1,Jarred Gillett
-2023-02-25,15:00,Leeds United,0.9,Southampton,0.4,1–0,1,0,1,Peter Bankes
-2023-02-25,17:30,Bournemouth,1.0,Manchester City,2.4,1–4,1,4,2,Paul Tierney
-2023-02-25,19:45,Crystal Palace,0.7,Liverpool,0.9,0–0,0,0,X,Darren England
-2023-02-26,13:30,Tottenham,0.8,Chelsea,0.4,2–0,2,0,1,Stuart Attwell
-2023-03-01,19:45,Arsenal,2.4,Everton,1.2,4–0,4,0,1,Michael Oliver
-2023-03-01,20:00,Liverpool,2.6,Wolves,0.8,2–0,2,0,1,Paul Tierney
-2023-03-04,12:30,Manchester City,1.3,Newcastle Utd,0.4,2–0,2,0,1,Simon Hooper
-2023-03-04,15:00,Arsenal,2.1,Bournemouth,1.3,3–2,3,2,1,Chris Kavanagh
-2023-03-04,15:00,Aston Villa,1.2,Crystal Palace,0.2,1–0,1,0,1,Craig Pawson
-2023-03-04,15:00,Chelsea,1.5,Leeds United,1.0,1–0,1,0,1,Michael Oliver
-2023-03-04,15:00,Brighton,3.5,West Ham,0.3,4–0,4,0,1,Stuart Attwell
-2023-03-04,15:00,Wolves,0.5,Tottenham,1.2,1–0,1,0,1,Tim Robinson
-2023-03-04,17:30,Southampton,1.4,Leicester City,1.9,1–0,1,0,1,Robert Jones
-2023-03-05,14:00,Nott'ham Forest,0.8,Everton,1.7,2–2,2,2,X,John Brooks
-2023-03-05,16:30,Liverpool,2.8,Manchester Utd,0.8,7–0,7,0,1,Andy Madley
-2023-03-06,20:00,Brentford,2.1,Fulham,1.4,3–2,3,2,1,Anthony Taylor
-2023-03-11,12:30,Bournemouth,0.9,Liverpool,1.7,1–0,1,0,1,John Brooks
-2023-03-11,15:00,Leeds United,0.9,Brighton,2.7,2–2,2,2,X,Paul Tierney
-2023-03-11,15:00,Everton,1.0,Brentford,2.0,1–0,1,0,1,Simon Hooper
-2023-03-11,15:00,Leicester City,2.4,Chelsea,1.6,1–3,1,3,2,Andre Marriner
-2023-03-11,15:00,Tottenham,2.0,Nott'ham Forest,1.5,3–1,3,1,1,Craig Pawson
-2023-03-11,17:30,Crystal Palace,0.2,Manchester City,2.1,0–1,0,1,2,Robert Jones
-2023-03-12,14:00,Manchester Utd,0.8,Southampton,1.0,0–0,0,0,X,Anthony Taylor
-2023-03-12,14:00,Fulham,0.8,Arsenal,2.3,0–3,0,3,2,David Coote
-2023-03-12,14:00,West Ham,2.1,Aston Villa,1.5,1–1,1,1,X,Chris Kavanagh
-2023-03-12,16:30,Newcastle Utd,1.8,Wolves,1.1,2–1,2,1,1,Andy Madley
-2023-03-15,19:30,Southampton,0.5,Brentford,1.9,0–2,0,2,2,Michael Salisbury
-2023-03-15,19:30,Brighton,0.6,Crystal Palace,1.1,1–0,1,0,1,Peter Bankes
-2023-03-17,20:00,Nott'ham Forest,0.4,Newcastle Utd,2.4,1–2,1,2,2,Paul Tierney
-2023-03-18,15:00,Wolves,2.7,Leeds United,1.6,2–4,2,4,2,Michael Salisbury
-2023-03-18,15:00,Brentford,0.6,Leicester City,1.3,1–1,1,1,X,Darren Bond
-2023-03-18,15:00,Aston Villa,3.5,Bournemouth,1.3,3–0,3,0,1,Robert Jones
-2023-03-18,15:00,Southampton,2.4,Tottenham,2.3,3–3,3,3,X,Simon Hooper
-2023-03-18,17:30,Chelsea,2.3,Everton,1.2,2–2,2,2,X,Darren England
-2023-03-19,14:00,Arsenal,1.6,Crystal Palace,0.8,4–1,4,1,1,Stuart Attwell
-2023-04-01,12:30,Manchester City,2.9,Liverpool,0.3,4–1,4,1,1,Simon Hooper
-2023-04-01,15:00,Arsenal,3.8,Leeds United,0.7,4–1,4,1,1,Darren England
-2023-04-01,15:00,Nott'ham Forest,1.3,Wolves,0.5,1–1,1,1,X,Chris Kavanagh
-2023-04-01,15:00,Brighton,4.2,Brentford,1.6,3–3,3,3,X,Michael Oliver
-2023-04-01,15:00,Crystal Palace,2.3,Leicester City,0.2,2–1,2,1,1,Tim Robinson
-2023-04-01,15:00,Bournemouth,2.6,Fulham,0.8,2–1,2,1,1,Peter Bankes
-2023-04-01,17:30,Chelsea,2.1,Aston Villa,0.9,0–2,0,2,2,Andy Madley
-2023-04-02,14:00,West Ham,1.4,Southampton,0.3,1–0,1,0,1,Paul Tierney
-2023-04-02,16:30,Newcastle Utd,3.7,Manchester Utd,0.4,2–0,2,0,1,Stuart Attwell
-2023-04-03,20:00,Everton,0.9,Tottenham,1.4,1–1,1,1,X,David Coote
-2023-04-04,19:45,Leeds United,1.8,Nott'ham Forest,0.8,2–1,2,1,1,Robert Jones
-2023-04-04,19:45,Bournemouth,1.7,Brighton,2.7,0–2,0,2,2,Darren Bond
-2023-04-04,19:45,Leicester City,0.5,Aston Villa,1.0,1–2,1,2,2,Graham Scott
-2023-04-04,20:00,Chelsea,2.2,Liverpool,0.3,0–0,0,0,X,Anthony Taylor
-2023-04-05,20:00,West Ham,1.0,Newcastle Utd,3.3,1–5,1,5,2,Craig Pawson
-2023-04-05,20:00,Manchester Utd,1.2,Brentford,0.7,1–0,1,0,1,John Brooks
-2023-04-08,12:30,Manchester Utd,3.4,Everton,1.0,2–0,2,0,1,Michael Oliver
-2023-04-08,15:00,Fulham,0.7,West Ham,1.1,0–1,0,1,2,Jarred Gillett
-2023-04-08,15:00,Aston Villa,1.3,Nott'ham Forest,0.2,2–0,2,0,1,Anthony Taylor
-2023-04-08,15:00,Leicester City,0.6,Bournemouth,1.9,0–1,0,1,2,David Coote
-2023-04-08,15:00,Brentford,2.6,Newcastle Utd,1.3,1–2,1,2,2,Chris Kavanagh
-2023-04-08,15:00,Wolves,0.6,Chelsea,1.1,1–0,1,0,1,Peter Bankes
-2023-04-08,15:00,Tottenham,0.8,Brighton,1.4,2–1,2,1,1,Stuart Attwell
-2023-04-08,17:30,Southampton,0.4,Manchester City,2.9,1–4,1,4,2,Robert Jones
-2023-04-09,14:00,Leeds United,0.9,Crystal Palace,3.0,1–5,1,5,2,Simon Hooper
-2023-04-09,16:30,Liverpool,3.9,Arsenal,1.4,2–2,2,2,X,Paul Tierney
-2023-04-15,12:30,Aston Villa,1.9,Newcastle Utd,0.5,3–0,3,0,1,John Brooks
-2023-04-15,15:00,Chelsea,0.5,Brighton,2.9,1–2,1,2,2,Robert Jones
-2023-04-15,15:00,Southampton,0.8,Crystal Palace,0.9,0–2,0,2,2,Michael Oliver
-2023-04-15,15:00,Wolves,0.8,Brentford,1.1,2–0,2,0,1,Paul Tierney
-2023-04-15,15:00,Tottenham,2.2,Bournemouth,1.3,2–3,2,3,2,Andy Madley
-2023-04-15,15:00,Everton,1.4,Fulham,1.8,1–3,1,3,2,Anthony Taylor
-2023-04-15,17:30,Manchester City,1.6,Leicester City,2.3,3–1,3,1,1,Darren England
-2023-04-16,14:00,West Ham,1.8,Arsenal,2.7,2–2,2,2,X,David Coote
-2023-04-16,16:30,Nott'ham Forest,0.7,Manchester Utd,3.5,0–2,0,2,2,Simon Hooper
-2023-04-17,20:00,Leeds United,1.4,Liverpool,2.7,1–6,1,6,2,Craig Pawson
-2023-04-21,20:00,Arsenal,2.4,Southampton,1.3,3–3,3,3,X,Simon Hooper
-2023-04-22,12:30,Fulham,1.7,Leeds United,0.8,2–1,2,1,1,Peter Bankes
-2023-04-22,15:00,Crystal Palace,0.5,Everton,0.4,0–0,0,0,X,John Brooks
-2023-04-22,15:00,Brentford,2.7,Aston Villa,1.5,1–1,1,1,X,Michael Salisbury
-2023-04-22,15:00,Liverpool,2.8,Nott'ham Forest,0.9,3–2,3,2,1,Michael Oliver
-2023-04-22,15:00,Leicester City,2.4,Wolves,0.9,2–1,2,1,1,Andy Madley
-2023-04-23,14:00,Bournemouth,1.5,West Ham,2.4,0–4,0,4,2,Anthony Taylor
-2023-04-23,14:00,Newcastle Utd,3.7,Tottenham,1.0,6–1,6,1,1,David Coote
-2023-04-25,19:30,Wolves,1.4,Crystal Palace,0.8,2–0,2,0,1,Robert Jones
-2023-04-25,19:45,Aston Villa,1.0,Fulham,0.1,1–0,1,0,1,Thomas Bramall
-2023-04-25,20:00,Leeds United,1.5,Leicester City,2.1,1–1,1,1,X,Paul Tierney
-2023-04-26,19:30,Nott'ham Forest,2.4,Brighton,2.3,3–1,3,1,1,Jarred Gillett
-2023-04-26,19:45,Chelsea,1.3,Brentford,1.1,0–2,0,2,2,Andy Madley
-2023-04-26,19:45,West Ham,0.8,Liverpool,1.9,1–2,1,2,2,Chris Kavanagh
-2023-04-26,20:00,Manchester City,2.5,Arsenal,0.5,4–1,4,1,1,Michael Oliver
-2023-04-27,19:45,Everton,0.9,Newcastle Utd,2.4,1–4,1,4,2,Andre Marriner
-2023-04-27,19:45,Southampton,0.5,Bournemouth,0.9,0–1,0,1,2,Darren England
-2023-04-27,20:15,Tottenham,2.5,Manchester Utd,2.0,2–2,2,2,X,Anthony Taylor
-2023-04-29,12:30,Crystal Palace,2.1,West Ham,1.7,4–3,4,3,1,Craig Pawson
-2023-04-29,15:00,Brighton,3.3,Wolves,0.8,6–0,6,0,1,David Coote
-2023-04-29,15:00,Brentford,1.6,Nott'ham Forest,0.7,2–1,2,1,1,Peter Bankes
-2023-04-30,14:00,Manchester Utd,1.2,Aston Villa,0.6,1–0,1,0,1,Jarred Gillett
-2023-04-30,14:00,Bournemouth,1.9,Leeds United,1.6,4–1,4,1,1,Chris Kavanagh
-2023-04-30,14:00,Newcastle Utd,4.3,Southampton,0.8,3–1,3,1,1,Anthony Taylor
-2023-04-30,14:00,Fulham,0.2,Manchester City,2.5,1–2,1,2,2,Simon Hooper
-2023-04-30,16:30,Liverpool,2.2,Tottenham,2.0,4–3,4,3,1,Paul Tierney
-2023-05-01,20:00,Leicester City,3.4,Everton,3.1,2–2,2,2,X,Michael Oliver
-2023-05-02,20:00,Arsenal,1.7,Chelsea,0.8,3–1,3,1,1,Robert Jones
-2023-05-03,20:00,Liverpool,1.8,Fulham,0.9,1–0,1,0,1,Stuart Attwell
-2023-05-03,20:00,Manchester City,2.3,West Ham,0.4,3–0,3,0,1,John Brooks
-2023-05-04,20:00,Brighton,2.3,Manchester Utd,1.4,1–0,1,0,1,Andre Marriner
-2023-05-06,15:00,Tottenham,0.9,Crystal Palace,0.4,1–0,1,0,1,Darren England
-2023-05-06,15:00,Wolves,0.8,Aston Villa,1.5,1–0,1,0,1,Stuart Attwell
-2023-05-06,15:00,Bournemouth,1.2,Chelsea,1.3,1–3,1,3,2,John Brooks
-2023-05-06,15:00,Manchester City,2.6,Leeds United,0.2,2–1,2,1,1,Andy Madley
-2023-05-06,17:30,Liverpool,2.2,Brentford,0.2,1–0,1,0,1,Anthony Taylor
-2023-05-07,16:30,Newcastle Utd,1.3,Arsenal,1.3,0–2,0,2,2,Chris Kavanagh
-2023-05-07,19:00,West Ham,1.3,Manchester Utd,1.2,1–0,1,0,1,Peter Bankes
-2023-05-08,15:00,Fulham,1.6,Leicester City,2.8,5–3,5,3,1,Robert Jones
-2023-05-08,17:30,Brighton,3.2,Everton,2.3,1–5,1,5,2,Simon Hooper
-2023-05-08,20:00,Nott'ham Forest,1.8,Southampton,3.1,4–3,4,3,1,Michael Oliver
-2023-05-13,12:30,Leeds United,2.0,Newcastle Utd,2.3,2–2,2,2,X,Simon Hooper
-2023-05-13,15:00,Aston Villa,1.2,Tottenham,1.4,2–1,2,1,1,Peter Bankes
-2023-05-13,15:00,Chelsea,1.2,Nott'ham Forest,1.3,2–2,2,2,X,Paul Tierney
-2023-05-13,15:00,Crystal Palace,1.5,Bournemouth,0.3,2–0,2,0,1,Michael Salisbury
-2023-05-13,15:00,Southampton,0.4,Fulham,1.4,0–2,0,2,2,Thomas Bramall
-2023-05-13,15:00,Manchester Utd,3.2,Wolves,0.3,2–0,2,0,1,John Brooks
-2023-05-14,14:00,Everton,1.6,Manchester City,0.8,0–3,0,3,2,Anthony Taylor
-2023-05-14,14:00,Brentford,3.4,West Ham,0.2,2–0,2,0,1,Michael Oliver
-2023-05-14,16:30,Arsenal,0.9,Brighton,1.7,0–3,0,3,2,Andy Madley
-2023-05-15,20:00,Leicester City,0.4,Liverpool,2.2,0–3,0,3,2,Craig Pawson
-2023-05-18,19:30,Newcastle Utd,3.6,Brighton,0.5,4–1,4,1,1,Robert Jones
-2023-05-20,12:30,Tottenham,1.7,Brentford,1.2,1–3,1,3,2,Jarred Gillett
-2023-05-20,15:00,Liverpool,0.7,Aston Villa,1.3,1–1,1,1,X,John Brooks
-2023-05-20,15:00,Fulham,1.7,Crystal Palace,1.6,2–2,2,2,X,Joshua Smith
-2023-05-20,15:00,Bournemouth,1.0,Manchester Utd,1.4,0–1,0,1,2,Chris Kavanagh
-2023-05-20,15:00,Wolves,1.6,Everton,2.0,1–1,1,1,X,David Coote
-2023-05-20,17:30,Nott'ham Forest,0.6,Arsenal,0.6,1–0,1,0,1,Anthony Taylor
-2023-05-21,13:30,West Ham,2.1,Leeds United,0.9,3–1,3,1,1,Peter Bankes
-2023-05-21,14:00,Brighton,2.5,Southampton,0.6,3–1,3,1,1,Paul Tierney
-2023-05-21,16:00,Manchester City,1.2,Chelsea,1.2,1–0,1,0,1,Michael Oliver
-2023-05-22,20:00,Newcastle Utd,2.1,Leicester City,0.1,0–0,0,0,X,Andre Marriner
-2023-05-24,20:00,Brighton,2.2,Manchester City,1.8,1–1,1,1,X,Simon Hooper
-2023-05-25,20:00,Manchester Utd,5.2,Chelsea,1.9,4–1,4,1,1,Stuart Attwell
-2023-05-28,16:30,Crystal Palace,1.4,Nott'ham Forest,0.5,1–1,1,1,X,Thomas Bramall
-2023-05-28,16:30,Chelsea,2.2,Newcastle Utd,1.7,1–1,1,1,X,Jarred Gillett
-2023-05-28,16:30,Manchester Utd,2.9,Fulham,1.8,2–1,2,1,1,Robert Jones
-2023-05-28,16:30,Arsenal,2.8,Wolves,0.5,5–0,5,0,1,Andre Marriner
-2023-05-28,16:30,Southampton,1.8,Liverpool,4.0,4–4,4,4,X,Darren England
-2023-05-28,16:30,Everton,1.0,Bournemouth,0.5,1–0,1,0,1,Stuart Attwell
-2023-05-28,16:30,Leicester City,1.4,West Ham,1.4,2–1,2,1,1,Simon Hooper
-2023-05-28,16:30,Aston Villa,2.8,Brighton,1.4,2–1,2,1,1,David Coote
-2023-05-28,16:30,Leeds United,1.5,Tottenham,2.2,1–4,1,4,2,Anthony Taylor
-2023-05-28,16:30,Brentford,1.3,Manchester City,1.6,1–0,1,0,1,John Brooks
+Date,Time,Home Team,XGH,Away Team,XGA,Score,FTHG,FTAG,HTGDIFF,ATGDIFF,Result,Referee,STH,STA
+2022-08-05,20:00,Crystal Palace,1.2,Arsenal,1.0,0–2,0,2,-2,2,2,Anthony Taylor,2,2
+2022-08-06,12:30,Fulham,1.2,Liverpool,1.2,2–2,2,2,0,0,X,Andy Madley,2,3
+2022-08-06,15:00,Tottenham,1.5,Southampton,0.5,4–1,4,1,3,-3,1,Andre Marriner,8,2
+2022-08-06,15:00,Newcastle Utd,1.7,Nott'ham Forest,0.3,2–0,2,0,2,-2,1,Simon Hooper,9,0
+2022-08-06,15:00,Leeds United,0.8,Wolves,1.3,2–1,2,1,1,-1,1,Robert Jones,4,6
+2022-08-06,15:00,Bournemouth,0.6,Aston Villa,0.7,2–0,2,0,2,-2,1,Peter Bankes,3,2
+2022-08-06,17:30,Everton,0.7,Chelsea,1.5,0–1,0,1,-1,1,2,Craig Pawson,3,5
+2022-08-07,14:00,Leicester City,0.6,Brentford,0.8,2–2,2,2,0,0,X,Jarred Gillett,5,3
+2022-08-07,14:00,Manchester Utd,1.4,Brighton,1.5,1–2,1,2,-1,1,2,Paul Tierney,5,4
+2022-08-07,16:30,West Ham,0.5,Manchester City,2.2,0–2,0,2,-2,2,2,Michael Oliver,1,1
+2022-08-13,12:30,Aston Villa,2.3,Everton,1.6,2–1,2,1,1,-1,1,Michael Oliver,3,4
+2022-08-13,15:00,Manchester City,1.7,Bournemouth,0.1,4–0,4,0,4,-4,1,David Coote,7,1
+2022-08-13,15:00,Southampton,1.2,Leeds United,1.8,2–2,2,2,0,0,X,Tony Harrington,4,5
+2022-08-13,15:00,Wolves,0.9,Fulham,1.5,0–0,0,0,0,0,X,John Brooks,1,2
+2022-08-13,15:00,Arsenal,2.7,Leicester City,0.5,4–2,4,2,2,-2,1,Darren England,7,2
+2022-08-13,15:00,Brighton,1.5,Newcastle Utd,0.2,0–0,0,0,0,0,X,Graham Scott,5,1
+2022-08-13,17:30,Brentford,1.6,Manchester Utd,0.9,4–0,4,0,4,-4,1,Stuart Attwell,7,4
+2022-08-14,14:00,Nott'ham Forest,1.3,West Ham,2.1,1–0,1,0,1,-1,1,Robert Jones,6,3
+2022-08-14,16:30,Chelsea,1.6,Tottenham,1.0,2–2,2,2,0,0,X,Anthony Taylor,3,5
+2022-08-15,20:00,Liverpool,2.0,Crystal Palace,1.0,1–1,1,1,0,0,X,Paul Tierney,4,3
+2022-08-20,12:30,Tottenham,1.7,Wolves,0.7,1–0,1,0,1,-1,1,Simon Hooper,4,3
+2022-08-20,15:00,Leicester City,0.3,Southampton,0.9,1–2,1,2,-1,1,2,Michael Salisbury,1,3
+2022-08-20,15:00,Everton,1.5,Nott'ham Forest,1.0,1–1,1,1,0,0,X,Andre Marriner,8,5
+2022-08-20,15:00,Crystal Palace,2.6,Aston Villa,0.9,3–1,3,1,2,-2,1,Andy Madley,8,5
+2022-08-20,15:00,Fulham,2.4,Brentford,1.8,3–2,3,2,1,-1,1,Peter Bankes,9,5
+2022-08-20,17:30,Bournemouth,0.3,Arsenal,1.3,0–3,0,3,-3,3,2,Craig Pawson,1,6
+2022-08-21,14:00,Leeds United,2.1,Chelsea,0.9,3–0,3,0,3,-3,1,Stuart Attwell,6,3
+2022-08-21,14:00,West Ham,0.8,Brighton,1.7,0–2,0,2,-2,2,2,Anthony Taylor,3,1
+2022-08-21,16:30,Newcastle Utd,1.8,Manchester City,2.1,3–3,3,3,0,0,X,Jarred Gillett,5,10
+2022-08-22,20:00,Manchester Utd,1.8,Liverpool,1.3,2–1,2,1,1,-1,1,Michael Oliver,5,5
+2022-08-27,12:30,Southampton,1.4,Manchester Utd,1.1,0–1,0,1,-1,1,2,Andy Madley,4,4
+2022-08-27,15:00,Manchester City,2.2,Crystal Palace,0.1,4–2,4,2,2,-2,1,Darren England,5,2
+2022-08-27,15:00,Brighton,2.0,Leeds United,1.8,1–0,1,0,1,-1,1,Michael Salisbury,4,2
+2022-08-27,15:00,Chelsea,1.8,Leicester City,2.5,2–1,2,1,1,-1,1,Paul Tierney,4,5
+2022-08-27,15:00,Brentford,2.1,Everton,1.1,1–1,1,1,0,0,X,John Brooks,5,7
+2022-08-27,15:00,Liverpool,3.3,Bournemouth,0.3,9–0,9,0,9,-9,1,Stuart Attwell,12,2
+2022-08-27,17:30,Arsenal,2.6,Fulham,0.8,2–1,2,1,1,-1,1,Jarred Gillett,8,3
+2022-08-28,14:00,Wolves,0.7,Newcastle Utd,1.7,1–1,1,1,0,0,X,Peter Bankes,4,6
+2022-08-28,14:00,Aston Villa,0.5,West Ham,0.6,0–1,0,1,-1,1,2,David Coote,3,2
+2022-08-28,16:30,Nott'ham Forest,0.9,Tottenham,2.4,0–2,0,2,-2,2,2,Craig Pawson,1,5
+2022-08-30,19:30,Fulham,0.7,Brighton,1.4,2–1,2,1,1,-1,1,Thomas Bramall,3,2
+2022-08-30,19:30,Crystal Palace,1.0,Brentford,1.4,1–1,1,1,0,0,X,Simon Hooper,4,3
+2022-08-30,19:45,Southampton,1.1,Chelsea,1.1,2–1,2,1,1,-1,1,Michael Oliver,5,4
+2022-08-30,20:00,Leeds United,1.0,Everton,1.0,1–1,1,1,0,0,X,Darren England,5,2
+2022-08-31,19:30,Bournemouth,0.4,Wolves,1.5,0–0,0,0,0,0,X,Anthony Taylor,2,3
+2022-08-31,19:30,Manchester City,3.3,Nott'ham Forest,0.7,6–0,6,0,6,-6,1,Paul Tierney,9,1
+2022-08-31,19:30,Arsenal,2.4,Aston Villa,0.4,2–1,2,1,1,-1,1,Robert Jones,8,3
+2022-08-31,19:45,West Ham,1.2,Tottenham,0.6,1–1,1,1,0,0,X,Peter Bankes,4,3
+2022-08-31,20:00,Liverpool,1.5,Newcastle Utd,0.7,2–1,2,1,1,-1,1,Andre Marriner,6,2
+2022-09-01,20:00,Leicester City,0.7,Manchester Utd,1.5,0–1,0,1,-1,1,2,Craig Pawson,2,2
+2022-09-03,12:30,Everton,1.7,Liverpool,2.1,0–0,0,0,0,0,X,Anthony Taylor,3,8
+2022-09-03,15:00,Nott'ham Forest,1.9,Bournemouth,0.8,2–3,2,3,-1,1,2,Michael Oliver,2,3
+2022-09-03,15:00,Wolves,0.8,Southampton,1.2,1–0,1,0,1,-1,1,John Brooks,2,1
+2022-09-03,15:00,Newcastle Utd,2.8,Crystal Palace,1.0,0–0,0,0,0,0,X,Michael Salisbury,5,9
+2022-09-03,15:00,Brentford,2.3,Leeds United,1.7,5–2,5,2,3,-3,1,Robert Jones,7,6
+2022-09-03,15:00,Tottenham,2.9,Fulham,0.7,2–1,2,1,1,-1,1,Stuart Attwell,10,3
+2022-09-03,15:00,Chelsea,0.9,West Ham,1.1,2–1,2,1,1,-1,1,Andy Madley,3,3
+2022-09-03,17:30,Aston Villa,0.3,Manchester City,2.1,1–1,1,1,0,0,X,Simon Hooper,1,4
+2022-09-04,14:00,Brighton,2.6,Leicester City,1.4,5–2,5,2,3,-3,1,Tony Harrington,10,4
+2022-09-04,16:30,Manchester Utd,1.5,Arsenal,1.3,3–1,3,1,2,-2,1,Paul Tierney,6,3
+2022-09-16,20:00,Aston Villa,1.5,Southampton,0.3,1–0,1,0,1,-1,1,Tony Harrington,3,1
+2022-09-16,20:00,Nott'ham Forest,1.4,Fulham,0.9,2–3,2,3,-1,1,2,Jarred Gillett,3,7
+2022-09-17,12:30,Wolves,0.4,Manchester City,1.1,0–3,0,3,-3,3,2,Anthony Taylor,1,7
+2022-09-17,15:00,Newcastle Utd,1.9,Bournemouth,0.7,1–1,1,1,0,0,X,Craig Pawson,6,3
+2022-09-17,17:30,Tottenham,2.2,Leicester City,1.8,6–2,6,2,4,-4,1,Simon Hooper,11,6
+2022-09-18,12:00,Brentford,0.5,Arsenal,1.5,0–3,0,3,-3,3,2,David Coote,2,7
+2022-09-18,14:15,Everton,0.4,West Ham,1.0,1–0,1,0,1,-1,1,Michael Oliver,2,4
+2022-10-01,12:30,Arsenal,2.4,Tottenham,1.6,3–1,3,1,2,-2,1,Anthony Taylor,9,2
+2022-10-01,15:00,Southampton,1.7,Everton,2.0,1–2,1,2,-1,1,2,Andre Marriner,6,5
+2022-10-01,15:00,Crystal Palace,0.4,Chelsea,1.1,1–2,1,2,-1,1,2,Chris Kavanagh,3,3
+2022-10-01,15:00,Liverpool,1.5,Brighton,1.4,3–3,3,3,0,0,X,Andy Madley,7,6
+2022-10-01,15:00,Fulham,0.5,Newcastle Utd,3.3,1–4,1,4,-3,3,2,Darren England,1,10
+2022-10-01,15:00,Bournemouth,0.4,Brentford,0.9,0–0,0,0,0,0,X,Thomas Bramall,0,4
+2022-10-01,17:30,West Ham,0.9,Wolves,0.7,2–0,2,0,2,-2,1,Paul Tierney,5,4
+2022-10-02,14:00,Manchester City,3.2,Manchester Utd,1.7,6–3,6,3,3,-3,1,Michael Oliver,9,7
+2022-10-02,16:30,Leeds United,0.4,Aston Villa,2.2,0–0,0,0,0,0,X,Stuart Attwell,1,6
+2022-10-03,20:00,Leicester City,1.3,Nott'ham Forest,1.1,4–0,4,0,4,-4,1,Robert Jones,7,3
+2022-10-08,15:00,Bournemouth,1.1,Leicester City,1.0,2–1,2,1,1,-1,1,Michael Salisbury,4,5
+2022-10-08,15:00,Newcastle Utd,1.5,Brentford,1.2,5–1,5,1,4,-4,1,John Brooks,6,2
+2022-10-08,15:00,Manchester City,2.4,Southampton,0.2,4–0,4,0,4,-4,1,Andy Madley,8,0
+2022-10-08,15:00,Chelsea,1.9,Wolves,1.1,3–0,3,0,3,-3,1,Simon Hooper,7,2
+2022-10-08,17:30,Brighton,0.7,Tottenham,0.8,0–1,0,1,-1,1,2,Tony Harrington,4,3
+2022-10-09,14:00,West Ham,2.4,Fulham,0.7,3–1,3,1,2,-2,1,Chris Kavanagh,7,2
+2022-10-09,14:00,Crystal Palace,1.1,Leeds United,1.0,2–1,2,1,1,-1,1,Paul Tierney,5,4
+2022-10-09,16:30,Arsenal,2.7,Liverpool,1.1,3–2,3,2,1,-1,1,Michael Oliver,6,3
+2022-10-09,19:00,Everton,0.6,Manchester Utd,1.4,1–2,1,2,-1,1,2,David Coote,2,4
+2022-10-10,20:00,Nott'ham Forest,0.3,Aston Villa,0.7,1–1,1,1,0,0,X,Anthony Taylor,3,2
+2022-10-14,20:00,Brentford,1.5,Brighton,1.9,2–0,2,0,2,-2,1,Michael Salisbury,1,7
+2022-10-15,12:30,Leicester City,1.0,Crystal Palace,0.4,0–0,0,0,0,0,X,Andy Madley,5,1
+2022-10-15,15:00,Fulham,2.1,Bournemouth,1.0,2–2,2,2,0,0,X,Graham Scott,3,6
+2022-10-15,15:00,Wolves,1.3,Nott'ham Forest,1.5,1–0,1,0,1,-1,1,Thomas Bramall,1,1
+2022-10-15,17:30,Tottenham,2.2,Everton,0.4,2–0,2,0,2,-2,1,Paul Tierney,6,0
+2022-10-16,14:00,Southampton,0.5,West Ham,1.7,1–1,1,1,0,0,X,Peter Bankes,8,4
+2022-10-16,14:00,Aston Villa,1.8,Chelsea,0.9,0–2,0,2,-2,2,2,Robert Jones,7,4
+2022-10-16,14:00,Leeds United,1.8,Arsenal,0.5,0–1,0,1,-1,1,2,Chris Kavanagh,4,4
+2022-10-16,14:00,Manchester Utd,0.8,Newcastle Utd,0.8,0–0,0,0,0,0,X,Craig Pawson,2,2
+2022-10-16,16:30,Liverpool,2.1,Manchester City,1.0,1–0,1,0,1,-1,1,Anthony Taylor,2,6
+2022-10-18,19:30,Brighton,1.7,Nott'ham Forest,0.1,0–0,0,0,0,0,X,Darren England,7,0
+2022-10-18,20:15,Crystal Palace,1.2,Wolves,0.8,2–1,2,1,1,-1,1,David Coote,4,4
+2022-10-19,19:30,Bournemouth,1.0,Southampton,1.0,0–1,0,1,-1,1,2,John Brooks,3,3
+2022-10-19,19:30,Brentford,1.3,Chelsea,0.9,0–0,0,0,0,0,X,Jarred Gillett,5,5
+2022-10-19,19:30,Liverpool,1.7,West Ham,1.7,1–0,1,0,1,-1,1,Stuart Attwell,7,2
+2022-10-19,19:30,Newcastle Utd,1.5,Everton,0.2,1–0,1,0,1,-1,1,Tony Harrington,4,0
+2022-10-19,20:15,Manchester Utd,1.5,Tottenham,0.6,2–0,2,0,2,-2,1,Simon Hooper,10,2
+2022-10-20,19:30,Fulham,2.1,Aston Villa,1.2,3–0,3,0,3,-3,1,Michael Oliver,6,6
+2022-10-20,20:15,Leicester City,0.8,Leeds United,1.3,2–0,2,0,2,-2,1,Peter Bankes,1,2
+2022-10-22,12:30,Nott'ham Forest,1.9,Liverpool,1.6,1–0,1,0,1,-1,1,Paul Tierney,7,7
+2022-10-22,15:00,Everton,1.4,Crystal Palace,0.9,3–0,3,0,3,-3,1,Simon Hooper,6,2
+2022-10-22,15:00,Manchester City,1.6,Brighton,0.5,3–1,3,1,2,-2,1,Craig Pawson,3,2
+2022-10-22,17:30,Chelsea,1.1,Manchester Utd,0.8,1–1,1,1,0,0,X,Stuart Attwell,1,6
+2022-10-23,14:00,Aston Villa,2.8,Brentford,0.9,4–0,4,0,4,-4,1,Darren England,10,3
+2022-10-23,14:00,Wolves,2.1,Leicester City,0.9,0–4,0,4,-4,4,2,Michael Oliver,5,4
+2022-10-23,14:00,Leeds United,1.6,Fulham,1.8,2–3,2,3,-1,1,2,Anthony Taylor,5,4
+2022-10-23,14:00,Southampton,0.7,Arsenal,1.0,1–1,1,1,0,0,X,Robert Jones,3,3
+2022-10-23,16:30,Tottenham,1.6,Newcastle Utd,1.2,1–2,1,2,-1,1,2,Jarred Gillett,4,5
+2022-10-24,20:00,West Ham,1.9,Bournemouth,0.4,2–0,2,0,2,-2,1,David Coote,3,3
+2022-10-29,12:30,Leicester City,0.7,Manchester City,1.0,0–1,0,1,-1,1,2,Robert Jones,5,5
+2022-10-29,15:00,Brentford,1.4,Wolves,0.6,1–1,1,1,0,0,X,Robert Madley,3,4
+2022-10-29,15:00,Crystal Palace,0.9,Southampton,1.3,1–0,1,0,1,-1,1,Michael Salisbury,3,4
+2022-10-29,15:00,Newcastle Utd,3.4,Aston Villa,0.4,4–0,4,0,4,-4,1,Paul Tierney,6,0
+2022-10-29,15:00,Brighton,2.4,Chelsea,1.4,4–1,4,1,3,-3,1,Andy Madley,7,7
+2022-10-29,15:00,Bournemouth,0.5,Tottenham,2.0,2–3,2,3,-1,1,2,Anthony Taylor,4,7
+2022-10-29,17:30,Fulham,1.9,Everton,0.9,0–0,0,0,0,0,X,John Brooks,6,4
+2022-10-29,19:45,Liverpool,1.7,Leeds United,1.8,1–2,1,2,-1,1,2,Michael Oliver,10,6
+2022-10-30,14:00,Arsenal,2.3,Nott'ham Forest,0.4,5–0,5,0,5,-5,1,Simon Hooper,9,2
+2022-10-30,16:15,Manchester Utd,1.2,West Ham,1.1,1–0,1,0,1,-1,1,Chris Kavanagh,3,4
+2022-11-05,15:00,Nott'ham Forest,1.5,Brentford,1.5,2–2,2,2,0,0,X,Andre Marriner,6,1
+2022-11-05,15:00,Leeds United,2.2,Bournemouth,1.5,4–3,4,3,1,-1,1,Tony Harrington,3,5
+2022-11-05,15:00,Manchester City,2.1,Fulham,1.0,2–1,2,1,1,-1,1,Darren England,4,1
+2022-11-05,15:00,Wolves,1.2,Brighton,1.5,2–3,2,3,-1,1,2,Graham Scott,4,8
+2022-11-05,17:30,Everton,1.2,Leicester City,2.3,0–2,0,2,-2,2,2,David Coote,2,8
+2022-11-06,12:00,Chelsea,0.3,Arsenal,2.1,0–1,0,1,-1,1,2,Michael Oliver,1,2
+2022-11-06,14:00,West Ham,0.3,Crystal Palace,1.0,1–2,1,2,-1,1,2,Paul Tierney,2,6
+2022-11-06,14:00,Southampton,1.7,Newcastle Utd,0.9,1–4,1,4,-3,3,2,Stuart Attwell,5,4
+2022-11-06,14:00,Aston Villa,0.6,Manchester Utd,0.5,3–1,3,1,2,-2,1,Anthony Taylor,4,3
+2022-11-06,16:30,Tottenham,1.2,Liverpool,1.2,1–2,1,2,-1,1,2,Andy Madley,5,6
+2022-11-12,12:30,Manchester City,1.6,Brentford,1.3,1–2,1,2,-1,1,2,Peter Bankes,6,7
+2022-11-12,15:00,Tottenham,1.8,Leeds United,1.1,4–3,4,3,1,-1,1,Michael Salisbury,7,5
+2022-11-12,15:00,Liverpool,1.9,Southampton,1.1,3–1,3,1,2,-2,1,Simon Hooper,7,5
+2022-11-12,15:00,Bournemouth,2.4,Everton,0.8,3–0,3,0,3,-3,1,Craig Pawson,8,3
+2022-11-12,15:00,West Ham,1.4,Leicester City,1.8,0–2,0,2,-2,2,2,Jarred Gillett,6,5
+2022-11-12,15:00,Nott'ham Forest,1.1,Crystal Palace,1.2,1–0,1,0,1,-1,1,John Brooks,2,0
+2022-11-12,17:30,Newcastle Utd,1.0,Chelsea,0.3,1–0,1,0,1,-1,1,Robert Jones,3,2
+2022-11-12,19:45,Wolves,0.7,Arsenal,2.1,0–2,0,2,-2,2,2,Stuart Attwell,2,3
+2022-11-13,14:00,Brighton,0.6,Aston Villa,1.5,1–2,1,2,-1,1,2,Chris Kavanagh,2,1
+2022-11-13,16:30,Fulham,1.4,Manchester Utd,2.5,1–2,1,2,-1,1,2,Paul Tierney,7,9
+2022-12-26,12:30,Brentford,2.0,Tottenham,1.1,2–2,2,2,0,0,X,David Coote,4,8
+2022-12-26,15:00,Southampton,1.9,Brighton,0.6,1–3,1,3,-2,2,2,Robert Jones,3,4
+2022-12-26,15:00,Leicester City,0.5,Newcastle Utd,1.9,0–3,0,3,-3,3,2,Jarred Gillett,2,4
+2022-12-26,15:00,Crystal Palace,0.4,Fulham,2.5,0–3,0,3,-3,3,2,Andy Madley,0,10
+2022-12-26,15:00,Everton,1.7,Wolves,0.8,1–2,1,2,-1,1,2,Craig Pawson,5,4
+2022-12-26,17:30,Aston Villa,1.4,Liverpool,2.7,1–3,1,3,-2,2,2,Paul Tierney,6,9
+2022-12-26,20:00,Arsenal,2.1,West Ham,1.0,3–1,3,1,2,-2,1,Michael Oliver,5,3
+2022-12-27,17:30,Chelsea,1.8,Bournemouth,0.5,2–0,2,0,2,-2,1,Simon Hooper,5,4
+2022-12-27,20:00,Manchester Utd,2.4,Nott'ham Forest,0.7,3–0,3,0,3,-3,1,Anthony Taylor,8,3
+2022-12-28,20:00,Leeds United,0.6,Manchester City,4.3,1–3,1,3,-2,2,2,Stuart Attwell,1,9
+2022-12-30,19:45,West Ham,1.3,Brentford,1.6,0–2,0,2,-2,2,2,Darren England,5,6
+2022-12-30,20:00,Liverpool,2.2,Leicester City,1.0,2–1,2,1,1,-1,1,Craig Pawson,5,2
+2022-12-31,12:30,Wolves,0.7,Manchester Utd,2.0,0–1,0,1,-1,1,2,Robert Jones,3,6
+2022-12-31,15:00,Newcastle Utd,2.2,Leeds United,0.4,0–0,0,0,0,0,X,Simon Hooper,5,1
+2022-12-31,15:00,Fulham,1.5,Southampton,0.8,2–1,2,1,1,-1,1,Graham Scott,1,3
+2022-12-31,15:00,Manchester City,1.7,Everton,0.1,1–1,1,1,0,0,X,Andy Madley,3,1
+2022-12-31,15:00,Bournemouth,0.6,Crystal Palace,1.6,0–2,0,2,-2,2,2,Andre Marriner,2,6
+2022-12-31,17:30,Brighton,1.2,Arsenal,2.9,2–4,2,4,-2,2,2,Anthony Taylor,5,7
+2023-01-01,14:00,Tottenham,0.7,Aston Villa,1.0,0–2,0,2,-2,2,2,John Brooks,1,4
+2023-01-01,16:30,Nott'ham Forest,1.4,Chelsea,0.9,1–1,1,1,0,0,X,Peter Bankes,5,2
+2023-01-02,17:30,Brentford,1.6,Liverpool,0.9,3–1,3,1,2,-2,1,Stuart Attwell,7,5
+2023-01-03,19:45,Leicester City,1.7,Fulham,1.7,0–1,0,1,-1,1,2,Darren Bond,6,2
+2023-01-03,19:45,Everton,1.3,Brighton,2.2,1–4,1,4,-3,3,2,Andre Marriner,3,8
+2023-01-03,19:45,Arsenal,1.1,Newcastle Utd,1.0,0–0,0,0,0,0,X,Andy Madley,4,1
+2023-01-03,20:00,Manchester Utd,2.2,Bournemouth,0.6,3–0,3,0,3,-3,1,Michael Salisbury,6,4
+2023-01-04,19:30,Southampton,0.5,Nott'ham Forest,1.4,0–1,0,1,-1,1,2,Thomas Bramall,0,1
+2023-01-04,19:45,Leeds United,1.6,West Ham,1.4,2–2,2,2,0,0,X,David Coote,5,1
+2023-01-04,20:00,Aston Villa,1.8,Wolves,0.9,1–1,1,1,0,0,X,Jarred Gillett,3,3
+2023-01-04,20:00,Crystal Palace,0.8,Tottenham,1.4,0–4,0,4,-4,4,2,Michael Oliver,4,6
+2023-01-05,20:00,Chelsea,0.4,Manchester City,2.0,0–1,0,1,-1,1,2,Paul Tierney,2,3
+2023-01-12,20:00,Fulham,1.0,Chelsea,2.1,2–1,2,1,1,-1,1,David Coote,3,10
+2023-01-13,20:00,Aston Villa,1.2,Leeds United,2.4,2–1,2,1,1,-1,1,Michael Oliver,5,3
+2023-01-14,12:30,Manchester Utd,1.7,Manchester City,0.6,2–1,2,1,1,-1,1,Stuart Attwell,3,1
+2023-01-14,15:00,Everton,1.4,Southampton,1.2,1–2,1,2,-1,1,2,John Brooks,4,5
+2023-01-14,15:00,Wolves,0.9,West Ham,1.1,1–0,1,0,1,-1,1,Simon Hooper,4,3
+2023-01-14,15:00,Nott'ham Forest,2.4,Leicester City,1.0,2–0,2,0,2,-2,1,Paul Tierney,5,1
+2023-01-14,15:00,Brighton,1.9,Liverpool,1.0,3–0,3,0,3,-3,1,Darren England,8,2
+2023-01-14,17:30,Brentford,1.4,Bournemouth,0.6,2–0,2,0,2,-2,1,Jarred Gillett,3,2
+2023-01-15,14:00,Chelsea,1.5,Crystal Palace,0.7,1–0,1,0,1,-1,1,Peter Bankes,5,5
+2023-01-15,14:00,Newcastle Utd,2.2,Fulham,1.1,1–0,1,0,1,-1,1,Robert Jones,5,0
+2023-01-15,16:30,Tottenham,1.6,Arsenal,1.8,0–2,0,2,-2,2,2,Craig Pawson,7,5
+2023-01-18,20:00,Crystal Palace,0.5,Manchester Utd,2.1,1–1,1,1,0,0,X,Robert Jones,5,4
+2023-01-19,20:00,Manchester City,2.3,Tottenham,0.8,4–2,4,2,2,-2,1,Simon Hooper,6,3
+2023-01-21,12:30,Liverpool,1.4,Chelsea,1.6,0–0,0,0,0,0,X,Michael Oliver,3,2
+2023-01-21,15:00,Bournemouth,1.4,Nott'ham Forest,1.9,1–1,1,1,0,0,X,Andy Madley,3,5
+2023-01-21,15:00,Southampton,0.6,Aston Villa,1.4,0–1,0,1,-1,1,2,Michael Salisbury,5,5
+2023-01-21,15:00,Leicester City,0.9,Brighton,1.7,2–2,2,2,0,0,X,Thomas Bramall,2,4
+2023-01-21,15:00,West Ham,2.2,Everton,0.5,2–0,2,0,2,-2,1,Stuart Attwell,4,2
+2023-01-21,17:30,Crystal Palace,0.3,Newcastle Utd,1.2,0–0,0,0,0,0,X,Craig Pawson,1,7
+2023-01-22,14:00,Manchester City,2.8,Wolves,0.8,3–0,3,0,3,-3,1,David Coote,5,1
+2023-01-22,14:00,Leeds United,0.5,Brentford,0.4,0–0,0,0,0,0,X,Peter Bankes,5,0
+2023-01-22,16:30,Arsenal,3.1,Manchester Utd,0.4,3–2,3,2,1,-1,1,Anthony Taylor,5,4
+2023-01-23,20:00,Fulham,1.0,Tottenham,0.9,0–1,0,1,-1,1,2,Paul Tierney,5,3
+2023-02-03,20:00,Chelsea,1.3,Fulham,0.6,0–0,0,0,0,0,X,Stuart Attwell,2,4
+2023-02-04,12:30,Everton,1.7,Arsenal,0.9,1–0,1,0,1,-1,1,David Coote,4,2
+2023-02-04,15:00,Aston Villa,1.7,Leicester City,2.6,2–4,2,4,-2,2,2,Darren England,4,5
+2023-02-04,15:00,Wolves,2.0,Liverpool,1.8,3–0,3,0,3,-3,1,Paul Tierney,5,2
+2023-02-04,15:00,Manchester Utd,2.0,Crystal Palace,1.3,2–1,2,1,1,-1,1,Andre Marriner,4,3
+2023-02-04,15:00,Brighton,2.2,Bournemouth,1.1,1–0,1,0,1,-1,1,Craig Pawson,6,2
+2023-02-04,15:00,Brentford,2.0,Southampton,0.7,3–0,3,0,3,-3,1,Darren Bond,3,5
+2023-02-04,17:30,Newcastle Utd,1.0,West Ham,1.0,1–1,1,1,0,0,X,Peter Bankes,2,1
+2023-02-05,14:00,Nott'ham Forest,0.4,Leeds United,0.9,1–0,1,0,1,-1,1,Robert Jones,2,4
+2023-02-05,16:30,Tottenham,1.4,Manchester City,1.3,1–0,1,0,1,-1,1,Andy Madley,3,5
+2023-02-08,20:00,Manchester Utd,2.0,Leeds United,0.6,2–2,2,2,0,0,X,Simon Hooper,6,2
+2023-02-11,12:30,West Ham,1.3,Chelsea,1.1,1–1,1,1,0,0,X,Craig Pawson,2,4
+2023-02-11,15:00,Leicester City,1.7,Tottenham,1.3,4–1,4,1,3,-3,1,Michael Salisbury,6,4
+2023-02-11,15:00,Crystal Palace,1.1,Brighton,2.5,1–1,1,1,0,0,X,Michael Oliver,1,7
+2023-02-11,15:00,Arsenal,1.6,Brentford,2.0,1–1,1,1,0,0,X,Peter Bankes,7,2
+2023-02-11,15:00,Southampton,1.1,Wolves,0.8,1–2,1,2,-1,1,2,Jarred Gillett,2,1
+2023-02-11,15:00,Fulham,1.5,Nott'ham Forest,0.7,2–0,2,0,2,-2,1,Andy Madley,3,1
+2023-02-11,17:30,Bournemouth,1.5,Newcastle Utd,1.3,1–1,1,1,0,0,X,Stuart Attwell,4,7
+2023-02-12,14:00,Leeds United,1.8,Manchester Utd,1.1,0–2,0,2,-2,2,2,Paul Tierney,6,5
+2023-02-12,16:30,Manchester City,3.3,Aston Villa,0.3,3–1,3,1,2,-2,1,Robert Jones,7,2
+2023-02-13,20:00,Liverpool,2.3,Everton,0.4,2–0,2,0,2,-2,1,Simon Hooper,6,1
+2023-02-15,19:30,Arsenal,1.6,Manchester City,1.8,1–3,1,3,-2,2,2,Anthony Taylor,0,5
+2023-02-18,12:30,Aston Villa,0.5,Arsenal,3.2,2–4,2,4,-2,2,2,Simon Hooper,5,5
+2023-02-18,15:00,Brighton,2.2,Fulham,0.3,0–1,0,1,-1,1,2,Darren England,7,2
+2023-02-18,15:00,Nott'ham Forest,0.9,Manchester City,2.4,1–1,1,1,0,0,X,Graham Scott,1,6
+2023-02-18,15:00,Chelsea,1.6,Southampton,0.6,0–1,0,1,-1,1,2,David Coote,4,4
+2023-02-18,15:00,Everton,1.4,Leeds United,0.5,1–0,1,0,1,-1,1,Andy Madley,4,0
+2023-02-18,15:00,Wolves,1.3,Bournemouth,1.1,0–1,0,1,-1,1,2,Michael Salisbury,4,1
+2023-02-18,15:00,Brentford,0.9,Crystal Palace,1.1,1–1,1,1,0,0,X,Paul Tierney,5,4
+2023-02-18,17:30,Newcastle Utd,2.0,Liverpool,1.9,0–2,0,2,-2,2,2,Anthony Taylor,4,7
+2023-02-19,14:00,Manchester Utd,4.4,Leicester City,1.6,3–0,3,0,3,-3,1,Stuart Attwell,8,3
+2023-02-19,16:30,Tottenham,1.5,West Ham,0.5,2–0,2,0,2,-2,1,Michael Oliver,6,1
+2023-02-24,20:00,Fulham,0.5,Wolves,0.8,1–1,1,1,0,0,X,Michael Oliver,5,2
+2023-02-25,15:00,Leicester City,0.0,Arsenal,0.7,0–1,0,1,-1,1,2,Craig Pawson,0,2
+2023-02-25,15:00,Everton,1.6,Aston Villa,1.9,0–2,0,2,-2,2,2,Anthony Taylor,4,4
+2023-02-25,15:00,West Ham,2.7,Nott'ham Forest,0.4,4–0,4,0,4,-4,1,Jarred Gillett,5,3
+2023-02-25,15:00,Leeds United,0.9,Southampton,0.4,1–0,1,0,1,-1,1,Peter Bankes,4,2
+2023-02-25,17:30,Bournemouth,1.0,Manchester City,2.4,1–4,1,4,-3,3,2,Paul Tierney,2,5
+2023-02-25,19:45,Crystal Palace,0.7,Liverpool,0.9,0–0,0,0,0,0,X,Darren England,0,4
+2023-02-26,13:30,Tottenham,0.8,Chelsea,0.4,2–0,2,0,2,-2,1,Stuart Attwell,3,2
+2023-03-01,19:45,Arsenal,2.4,Everton,1.2,4–0,4,0,4,-4,1,Michael Oliver,5,5
+2023-03-01,20:00,Liverpool,2.6,Wolves,0.8,2–0,2,0,2,-2,1,Paul Tierney,6,1
+2023-03-04,12:30,Manchester City,1.3,Newcastle Utd,0.4,2–0,2,0,2,-2,1,Simon Hooper,3,2
+2023-03-04,15:00,Arsenal,2.1,Bournemouth,1.3,3–2,3,2,1,-1,1,Chris Kavanagh,9,4
+2023-03-04,15:00,Aston Villa,1.2,Crystal Palace,0.2,1–0,1,0,1,-1,1,Craig Pawson,1,0
+2023-03-04,15:00,Chelsea,1.5,Leeds United,1.0,1–0,1,0,1,-1,1,Michael Oliver,3,2
+2023-03-04,15:00,Brighton,3.5,West Ham,0.3,4–0,4,0,4,-4,1,Stuart Attwell,8,2
+2023-03-04,15:00,Wolves,0.5,Tottenham,1.2,1–0,1,0,1,-1,1,Tim Robinson,5,6
+2023-03-04,17:30,Southampton,1.4,Leicester City,1.9,1–0,1,0,1,-1,1,Robert Jones,4,0
+2023-03-05,14:00,Nott'ham Forest,0.8,Everton,1.7,2–2,2,2,0,0,X,John Brooks,4,2
+2023-03-05,16:30,Liverpool,2.8,Manchester Utd,0.8,7–0,7,0,7,-7,1,Andy Madley,8,4
+2023-03-06,20:00,Brentford,2.1,Fulham,1.4,3–2,3,2,1,-1,1,Anthony Taylor,5,5
+2023-03-11,12:30,Bournemouth,0.9,Liverpool,1.7,1–0,1,0,1,-1,1,John Brooks,2,5
+2023-03-11,15:00,Leeds United,0.9,Brighton,2.7,2–2,2,2,0,0,X,Paul Tierney,4,3
+2023-03-11,15:00,Everton,1.0,Brentford,2.0,1–0,1,0,1,-1,1,Simon Hooper,6,3
+2023-03-11,15:00,Leicester City,2.4,Chelsea,1.6,1–3,1,3,-2,2,2,Andre Marriner,6,6
+2023-03-11,15:00,Tottenham,2.0,Nott'ham Forest,1.5,3–1,3,1,2,-2,1,Craig Pawson,6,4
+2023-03-11,17:30,Crystal Palace,0.2,Manchester City,2.1,0–1,0,1,-1,1,2,Robert Jones,0,3
+2023-03-12,14:00,Manchester Utd,0.8,Southampton,1.0,0–0,0,0,0,0,X,Anthony Taylor,4,4
+2023-03-12,14:00,Fulham,0.8,Arsenal,2.3,0–3,0,3,-3,3,2,David Coote,2,7
+2023-03-12,14:00,West Ham,2.1,Aston Villa,1.5,1–1,1,1,0,0,X,Chris Kavanagh,4,4
+2023-03-12,16:30,Newcastle Utd,1.8,Wolves,1.1,2–1,2,1,1,-1,1,Andy Madley,8,4
+2023-03-15,19:30,Southampton,0.5,Brentford,1.9,0–2,0,2,-2,2,2,Michael Salisbury,0,4
+2023-03-15,19:30,Brighton,0.6,Crystal Palace,1.1,1–0,1,0,1,-1,1,Peter Bankes,5,3
+2023-03-17,20:00,Nott'ham Forest,0.4,Newcastle Utd,2.4,1–2,1,2,-1,1,2,Paul Tierney,3,3
+2023-03-18,15:00,Wolves,2.7,Leeds United,1.6,2–4,2,4,-2,2,2,Michael Salisbury,8,4
+2023-03-18,15:00,Brentford,0.6,Leicester City,1.3,1–1,1,1,0,0,X,Darren Bond,2,1
+2023-03-18,15:00,Aston Villa,3.5,Bournemouth,1.3,3–0,3,0,3,-3,1,Robert Jones,9,3
+2023-03-18,15:00,Southampton,2.4,Tottenham,2.3,3–3,3,3,0,0,X,Simon Hooper,6,3
+2023-03-18,17:30,Chelsea,2.3,Everton,1.2,2–2,2,2,0,0,X,Darren England,6,3
+2023-03-19,14:00,Arsenal,1.6,Crystal Palace,0.8,4–1,4,1,3,-3,1,Stuart Attwell,5,5
+2023-04-01,12:30,Manchester City,2.9,Liverpool,0.3,4–1,4,1,3,-3,1,Simon Hooper,8,1
+2023-04-01,15:00,Arsenal,3.8,Leeds United,0.7,4–1,4,1,3,-3,1,Darren England,4,5
+2023-04-01,15:00,Nott'ham Forest,1.3,Wolves,0.5,1–1,1,1,0,0,X,Chris Kavanagh,7,1
+2023-04-01,15:00,Brighton,4.2,Brentford,1.6,3–3,3,3,0,0,X,Michael Oliver,13,5
+2023-04-01,15:00,Crystal Palace,2.3,Leicester City,0.2,2–1,2,1,1,-1,1,Tim Robinson,9,2
+2023-04-01,15:00,Bournemouth,2.6,Fulham,0.8,2–1,2,1,1,-1,1,Peter Bankes,6,2
+2023-04-01,17:30,Chelsea,2.1,Aston Villa,0.9,0–2,0,2,-2,2,2,Andy Madley,7,2
+2023-04-02,14:00,West Ham,1.4,Southampton,0.3,1–0,1,0,1,-1,1,Paul Tierney,2,3
+2023-04-02,16:30,Newcastle Utd,3.7,Manchester Utd,0.4,2–0,2,0,2,-2,1,Stuart Attwell,6,1
+2023-04-03,20:00,Everton,0.9,Tottenham,1.4,1–1,1,1,0,0,X,David Coote,6,0
+2023-04-04,19:45,Leeds United,1.8,Nott'ham Forest,0.8,2–1,2,1,1,-1,1,Robert Jones,6,1
+2023-04-04,19:45,Bournemouth,1.7,Brighton,2.7,0–2,0,2,-2,2,2,Darren Bond,3,6
+2023-04-04,19:45,Leicester City,0.5,Aston Villa,1.0,1–2,1,2,-1,1,2,Graham Scott,4,5
+2023-04-04,20:00,Chelsea,2.2,Liverpool,0.3,0–0,0,0,0,0,X,Anthony Taylor,2,3
+2023-04-05,20:00,West Ham,1.0,Newcastle Utd,3.3,1–5,1,5,-4,4,2,Craig Pawson,2,7
+2023-04-05,20:00,Manchester Utd,1.2,Brentford,0.7,1–0,1,0,1,-1,1,John Brooks,3,1
+2023-04-08,12:30,Manchester Utd,3.4,Everton,1.0,2–0,2,0,2,-2,1,Michael Oliver,11,1
+2023-04-08,15:00,Fulham,0.7,West Ham,1.1,0–1,0,1,-1,1,2,Jarred Gillett,3,5
+2023-04-08,15:00,Aston Villa,1.3,Nott'ham Forest,0.2,2–0,2,0,2,-2,1,Anthony Taylor,3,2
+2023-04-08,15:00,Leicester City,0.6,Bournemouth,1.9,0–1,0,1,-1,1,2,David Coote,4,7
+2023-04-08,15:00,Brentford,2.6,Newcastle Utd,1.3,1–2,1,2,-1,1,2,Chris Kavanagh,4,4
+2023-04-08,15:00,Wolves,0.6,Chelsea,1.1,1–0,1,0,1,-1,1,Peter Bankes,4,1
+2023-04-08,15:00,Tottenham,0.8,Brighton,1.4,2–1,2,1,1,-1,1,Stuart Attwell,3,4
+2023-04-08,17:30,Southampton,0.4,Manchester City,2.9,1–4,1,4,-3,3,2,Robert Jones,1,7
+2023-04-09,14:00,Leeds United,0.9,Crystal Palace,3.0,1–5,1,5,-4,4,2,Simon Hooper,7,7
+2023-04-09,16:30,Liverpool,3.9,Arsenal,1.4,2–2,2,2,0,0,X,Paul Tierney,6,5
+2023-04-15,12:30,Aston Villa,1.9,Newcastle Utd,0.5,3–0,3,0,3,-3,1,John Brooks,6,2
+2023-04-15,15:00,Chelsea,0.5,Brighton,2.9,1–2,1,2,-1,1,2,Robert Jones,2,10
+2023-04-15,15:00,Southampton,0.8,Crystal Palace,0.9,0–2,0,2,-2,2,2,Michael Oliver,4,2
+2023-04-15,15:00,Wolves,0.8,Brentford,1.1,2–0,2,0,2,-2,1,Paul Tierney,9,3
+2023-04-15,15:00,Tottenham,2.2,Bournemouth,1.3,2–3,2,3,-1,1,2,Andy Madley,8,6
+2023-04-15,15:00,Everton,1.4,Fulham,1.8,1–3,1,3,-2,2,2,Anthony Taylor,7,7
+2023-04-15,17:30,Manchester City,1.6,Leicester City,2.3,3–1,3,1,2,-2,1,Darren England,3,4
+2023-04-16,14:00,West Ham,1.8,Arsenal,2.7,2–2,2,2,0,0,X,David Coote,2,5
+2023-04-16,16:30,Nott'ham Forest,0.7,Manchester Utd,3.5,0–2,0,2,-2,2,2,Simon Hooper,0,7
+2023-04-17,20:00,Leeds United,1.4,Liverpool,2.7,1–6,1,6,-5,5,2,Craig Pawson,3,7
+2023-04-21,20:00,Arsenal,2.4,Southampton,1.3,3–3,3,3,0,0,X,Simon Hooper,5,6
+2023-04-22,12:30,Fulham,1.7,Leeds United,0.8,2–1,2,1,1,-1,1,Peter Bankes,5,2
+2023-04-22,15:00,Crystal Palace,0.5,Everton,0.4,0–0,0,0,0,0,X,John Brooks,2,5
+2023-04-22,15:00,Brentford,2.7,Aston Villa,1.5,1–1,1,1,0,0,X,Michael Salisbury,5,2
+2023-04-22,15:00,Liverpool,2.8,Nott'ham Forest,0.9,3–2,3,2,1,-1,1,Michael Oliver,5,5
+2023-04-22,15:00,Leicester City,2.4,Wolves,0.9,2–1,2,1,1,-1,1,Andy Madley,6,3
+2023-04-23,14:00,Bournemouth,1.5,West Ham,2.4,0–4,0,4,-4,4,2,Anthony Taylor,5,10
+2023-04-23,14:00,Newcastle Utd,3.7,Tottenham,1.0,6–1,6,1,5,-5,1,David Coote,8,3
+2023-04-25,19:30,Wolves,1.4,Crystal Palace,0.8,2–0,2,0,2,-2,1,Robert Jones,2,4
+2023-04-25,19:45,Aston Villa,1.0,Fulham,0.1,1–0,1,0,1,-1,1,Thomas Bramall,3,0
+2023-04-25,20:00,Leeds United,1.5,Leicester City,2.1,1–1,1,1,0,0,X,Paul Tierney,3,3
+2023-04-26,19:30,Nott'ham Forest,2.4,Brighton,2.3,3–1,3,1,2,-2,1,Jarred Gillett,3,7
+2023-04-26,19:45,Chelsea,1.3,Brentford,1.1,0–2,0,2,-2,2,2,Andy Madley,4,1
+2023-04-26,19:45,West Ham,0.8,Liverpool,1.9,1–2,1,2,-1,1,2,Chris Kavanagh,2,4
+2023-04-26,20:00,Manchester City,2.5,Arsenal,0.5,4–1,4,1,3,-3,1,Michael Oliver,9,2
+2023-04-27,19:45,Everton,0.9,Newcastle Utd,2.4,1–4,1,4,-3,3,2,Andre Marriner,5,7
+2023-04-27,19:45,Southampton,0.5,Bournemouth,0.9,0–1,0,1,-1,1,2,Darren England,2,2
+2023-04-27,20:15,Tottenham,2.5,Manchester Utd,2.0,2–2,2,2,0,0,X,Anthony Taylor,7,7
+2023-04-29,12:30,Crystal Palace,2.1,West Ham,1.7,4–3,4,3,1,-1,1,Craig Pawson,5,4
+2023-04-29,15:00,Brighton,3.3,Wolves,0.8,6–0,6,0,6,-6,1,David Coote,8,2
+2023-04-29,15:00,Brentford,1.6,Nott'ham Forest,0.7,2–1,2,1,1,-1,1,Peter Bankes,8,3
+2023-04-30,14:00,Manchester Utd,1.2,Aston Villa,0.6,1–0,1,0,1,-1,1,Jarred Gillett,6,1
+2023-04-30,14:00,Bournemouth,1.9,Leeds United,1.6,4–1,4,1,3,-3,1,Chris Kavanagh,7,6
+2023-04-30,14:00,Newcastle Utd,4.3,Southampton,0.8,3–1,3,1,2,-2,1,Anthony Taylor,5,3
+2023-04-30,14:00,Fulham,0.2,Manchester City,2.5,1–2,1,2,-1,1,2,Simon Hooper,1,8
+2023-04-30,16:30,Liverpool,2.2,Tottenham,2.0,4–3,4,3,1,-1,1,Paul Tierney,3,6
+2023-05-01,20:00,Leicester City,3.4,Everton,3.1,2–2,2,2,0,0,X,Michael Oliver,4,7
+2023-05-02,20:00,Arsenal,1.7,Chelsea,0.8,3–1,3,1,2,-2,1,Robert Jones,9,4
+2023-05-03,20:00,Liverpool,1.8,Fulham,0.9,1–0,1,0,1,-1,1,Stuart Attwell,2,3
+2023-05-03,20:00,Manchester City,2.3,West Ham,0.4,3–0,3,0,3,-3,1,John Brooks,7,2
+2023-05-04,20:00,Brighton,2.3,Manchester Utd,1.4,1–0,1,0,1,-1,1,Andre Marriner,5,5
+2023-05-06,15:00,Tottenham,0.9,Crystal Palace,0.4,1–0,1,0,1,-1,1,Darren England,3,2
+2023-05-06,15:00,Wolves,0.8,Aston Villa,1.5,1–0,1,0,1,-1,1,Stuart Attwell,2,3
+2023-05-06,15:00,Bournemouth,1.2,Chelsea,1.3,1–3,1,3,-2,2,2,John Brooks,4,5
+2023-05-06,15:00,Manchester City,2.6,Leeds United,0.2,2–1,2,1,1,-1,1,Andy Madley,6,2
+2023-05-06,17:30,Liverpool,2.2,Brentford,0.2,1–0,1,0,1,-1,1,Anthony Taylor,5,1
+2023-05-07,16:30,Newcastle Utd,1.3,Arsenal,1.3,0–2,0,2,-2,2,2,Chris Kavanagh,5,6
+2023-05-07,19:00,West Ham,1.3,Manchester Utd,1.2,1–0,1,0,1,-1,1,Peter Bankes,4,4
+2023-05-08,15:00,Fulham,1.6,Leicester City,2.8,5–3,5,3,2,-2,1,Robert Jones,7,7
+2023-05-08,17:30,Brighton,3.2,Everton,2.3,1–5,1,5,-4,4,2,Simon Hooper,5,5
+2023-05-08,20:00,Nott'ham Forest,1.8,Southampton,3.1,4–3,4,3,1,-1,1,Michael Oliver,3,4
+2023-05-13,12:30,Leeds United,2.0,Newcastle Utd,2.3,2–2,2,2,0,0,X,Simon Hooper,3,3
+2023-05-13,15:00,Aston Villa,1.2,Tottenham,1.4,2–1,2,1,1,-1,1,Peter Bankes,4,1
+2023-05-13,15:00,Chelsea,1.2,Nott'ham Forest,1.3,2–2,2,2,0,0,X,Paul Tierney,6,2
+2023-05-13,15:00,Crystal Palace,1.5,Bournemouth,0.3,2–0,2,0,2,-2,1,Michael Salisbury,5,0
+2023-05-13,15:00,Southampton,0.4,Fulham,1.4,0–2,0,2,-2,2,2,Thomas Bramall,1,3
+2023-05-13,15:00,Manchester Utd,3.2,Wolves,0.3,2–0,2,0,2,-2,1,John Brooks,9,0
+2023-05-14,14:00,Everton,1.6,Manchester City,0.8,0–3,0,3,-3,3,2,Anthony Taylor,2,4
+2023-05-14,14:00,Brentford,3.4,West Ham,0.2,2–0,2,0,2,-2,1,Michael Oliver,9,4
+2023-05-14,16:30,Arsenal,0.9,Brighton,1.7,0–3,0,3,-3,3,2,Andy Madley,2,6
+2023-05-15,20:00,Leicester City,0.4,Liverpool,2.2,0–3,0,3,-3,3,2,Craig Pawson,4,5
+2023-05-18,19:30,Newcastle Utd,3.6,Brighton,0.5,4–1,4,1,3,-3,1,Robert Jones,8,2
+2023-05-20,12:30,Tottenham,1.7,Brentford,1.2,1–3,1,3,-2,2,2,Jarred Gillett,7,4
+2023-05-20,15:00,Liverpool,0.7,Aston Villa,1.3,1–1,1,1,0,0,X,John Brooks,5,3
+2023-05-20,15:00,Fulham,1.7,Crystal Palace,1.6,2–2,2,2,0,0,X,Joshua Smith,3,5
+2023-05-20,15:00,Bournemouth,1.0,Manchester Utd,1.4,0–1,0,1,-1,1,2,Chris Kavanagh,4,5
+2023-05-20,15:00,Wolves,1.6,Everton,2.0,1–1,1,1,0,0,X,David Coote,5,4
+2023-05-20,17:30,Nott'ham Forest,0.6,Arsenal,0.6,1–0,1,0,1,-1,1,Anthony Taylor,2,3
+2023-05-21,13:30,West Ham,2.1,Leeds United,0.9,3–1,3,1,2,-2,1,Peter Bankes,9,3
+2023-05-21,14:00,Brighton,2.5,Southampton,0.6,3–1,3,1,2,-2,1,Paul Tierney,8,1
+2023-05-21,16:00,Manchester City,1.2,Chelsea,1.2,1–0,1,0,1,-1,1,Michael Oliver,2,6
+2023-05-22,20:00,Newcastle Utd,2.1,Leicester City,0.1,0–0,0,0,0,0,X,Andre Marriner,3,1
+2023-05-24,20:00,Brighton,2.2,Manchester City,1.8,1–1,1,1,0,0,X,Simon Hooper,7,4
+2023-05-25,20:00,Manchester Utd,5.2,Chelsea,1.9,4–1,4,1,3,-3,1,Stuart Attwell,8,5
+2023-05-28,16:30,Crystal Palace,1.4,Nott'ham Forest,0.5,1–1,1,1,0,0,X,Thomas Bramall,3,4
+2023-05-28,16:30,Chelsea,2.2,Newcastle Utd,1.7,1–1,1,1,0,0,X,Jarred Gillett,4,4
+2023-05-28,16:30,Manchester Utd,2.9,Fulham,1.8,2–1,2,1,1,-1,1,Robert Jones,8,2
+2023-05-28,16:30,Arsenal,2.8,Wolves,0.5,5–0,5,0,5,-5,1,Andre Marriner,8,0
+2023-05-28,16:30,Southampton,1.8,Liverpool,4.0,4–4,4,4,0,0,X,Darren England,10,8
+2023-05-28,16:30,Everton,1.0,Bournemouth,0.5,1–0,1,0,1,-1,1,Stuart Attwell,6,1
+2023-05-28,16:30,Leicester City,1.4,West Ham,1.4,2–1,2,1,1,-1,1,Simon Hooper,4,3
+2023-05-28,16:30,Aston Villa,2.8,Brighton,1.4,2–1,2,1,1,-1,1,David Coote,5,4
+2023-05-28,16:30,Leeds United,1.5,Tottenham,2.2,1–4,1,4,-3,3,2,Anthony Taylor,2,7
+2023-05-28,16:30,Brentford,1.3,Manchester City,1.6,1–0,1,0,1,-1,1,John Brooks,4,2
